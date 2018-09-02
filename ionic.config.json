@@ -1,0 +1,7 @@
+{
+  "name": "00000010430_MisaelAzarya_week1",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
